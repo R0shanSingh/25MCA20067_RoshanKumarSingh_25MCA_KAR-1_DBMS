@@ -1,5 +1,7 @@
+-- UID : 25MCA20067 (odd)
+
 -- Problem Statement:
--- An online store records every purchase in a Purchases table. Each record represents a customer buying a product on a specific date.
+-- Q1.An online store records every purchase in a Purchases table. Each record represents a customer buying a product on a specific date.
 -- The analytics team wants to detect situations where multiple customers purchased the same product on the same day.
 -- Your task is to identify all unique pairs of customers who bought the same product on the same date.
 
