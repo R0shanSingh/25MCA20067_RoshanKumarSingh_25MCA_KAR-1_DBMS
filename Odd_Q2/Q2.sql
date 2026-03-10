@@ -1,5 +1,7 @@
+-- UID : 25MCA20067 
+
 -- Problem Statement
--- A company database contains one tables: Employee(EmpID, EmpName, Salary).
+-- Q2.A company database contains one tables: Employee(EmpID, EmpName, Salary).
 -- Write an SQL query to create a VIEW named HighSalaryEmployees that displays EmpID, EmpName, and 
 -- Salary from the Employee table where the Salary is greater than 50000.
 
